@@ -1,3 +1,3 @@
 # Programming-Projects
 
-This repository containes codes used in my projects.
+This repository contains codes used in my projects.
